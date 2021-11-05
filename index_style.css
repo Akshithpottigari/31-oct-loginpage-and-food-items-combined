@@ -1,0 +1,79 @@
+/* Colors= #162B32 #FF4838*/
+@font-face {
+    font-family: Dancing_Script;
+    src: url(Fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+@font-face{
+        font-family:Sacramento;
+        src: url(Fonts/Sacramento/Sacramento-Regular.ttf);
+}
+@font-face{
+        font-family:ZenKurenaido;
+        src: url(Fonts/ZenKurenaido/ZenKurenaido-Regular.ttf);
+}
+.Hotel-Name {
+    font-family: Dancing_Script;
+    font-size: 800%;
+    text-align: center;
+    color: white;
+    /*background-color: #162B32;
+    border-radius: 5px;*/
+    
+}
+.Main-headings {
+    font-family: Dancing_Script;
+    font-size: 700%;
+    text-align: center;
+    color: white;
+}
+.Login {
+    font-family: Dancing_Script;
+    font-size: 150%;
+    text-align: center;
+    color: white;
+}
+.categories{
+    font-family: Sacramento;
+    font-size: 300%;
+    color: white;
+    padding-left: 3%;
+    font-weight: 100;
+}
+.context{
+    font-family: ZenKurenaido;
+    font-size: 200%;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+.sub-categories-1 a{
+    font-family: ZenKurenaido;
+    font-size: 275%;
+    text-decoration: none;
+    color: white;
+    padding-left: 37%;
+    font-weight: 700;
+}
+.sub-categories a{
+    font-family: ZenKurenaido;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    padding-left: 4%;
+}
+a:hover{
+    color: #FF4838;
+}
+
+.login-username-password{
+    font-family: ZenKurenaido;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    padding-left: 4%;
+}
+.password a{
+    text-decoration: none;
+    color: crimson;
+}
